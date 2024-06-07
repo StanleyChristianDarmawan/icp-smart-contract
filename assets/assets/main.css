@@ -1,0 +1,19 @@
+img {
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px 0;
+    text-align: center;
+}
